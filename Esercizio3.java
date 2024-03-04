@@ -31,7 +31,7 @@ public class Esercizio3 {
     }
 
     public static double perimetroRettangolo (double base,double altezza){
-    double prodotto = base * altezza;
+    double prodotto = (base*2)+(altezza*2);
         return prodotto;
     }
 
